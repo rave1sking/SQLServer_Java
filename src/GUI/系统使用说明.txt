@@ -1,0 +1,12 @@
+Java jdk 1.8.0_241
+配置了sqljdbc4.jar
+
+sqlserver版本：sqlserver2019
+
+开发环境：IDEA
+
+用户名：1
+密码：1
+
+管理员编号：00001
+密码admin1
